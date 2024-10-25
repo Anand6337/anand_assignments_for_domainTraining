@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <AuthorId>1</AuthorId>
+    <Name>J.K. Rowling</Name>
+    <Country>United Kingdom</Country>
+  </Author>
+  <Author>
+    <AuthorId>2</AuthorId>
+    <Name>George R.R. Martin</Name>
+    <Country>United States</Country>
+  </Author>
+  <Author>
+    <AuthorId>3</AuthorId>
+    <Name>Haruki Murakami</Name>
+    <Country>Japan</Country>
+  </Author>
+  <Author>
+    <AuthorId>4</AuthorId>
+    <Name>Jane Austen</Name>
+    <Country>United Kingdom</Country>
+  </Author>
+  <Author>
+    <AuthorId>5</AuthorId>
+    <Name>Mark Twain</Name>
+    <Country>United States</Country>
+  </Author>
+</ArrayOfAuthor>

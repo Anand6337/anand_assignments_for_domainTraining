@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\bin\Debug\net6.0\Assignment_11App.exe
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\bin\Debug\net6.0\Assignment_11App.deps.json
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\bin\Debug\net6.0\Assignment_11App.runtimeconfig.json
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\bin\Debug\net6.0\Assignment_11App.dll
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\bin\Debug\net6.0\Assignment_11App.pdb
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.dll
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\refint\Assignment_11App.dll
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.pdb
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\Assignment_11App.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Domain Projects\Assignments\Assignment 11\Assignment_11App\obj\Debug\net6.0\ref\Assignment_11App.dll

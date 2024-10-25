@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookId>1</BookId>
+    <Title>Harry Potter</Title>
+    <PublishedYear>0</PublishedYear>
+    <Genre>Fantasy</Genre>
+    <AuthorId>1</AuthorId>
+  </Book>
+  <Book>
+    <BookId>2</BookId>
+    <Title>Game of Thrones</Title>
+    <PublishedYear>0</PublishedYear>
+    <Genre>Fantasy</Genre>
+    <AuthorId>2</AuthorId>
+  </Book>
+  <Book>
+    <BookId>3</BookId>
+    <Title>Norwegian Wood</Title>
+    <PublishedYear>0</PublishedYear>
+    <Genre>Fiction</Genre>
+    <AuthorId>3</AuthorId>
+  </Book>
+  <Book>
+    <BookId>4</BookId>
+    <Title>Pride and Prejudice</Title>
+    <PublishedYear>0</PublishedYear>
+    <Genre>Romance</Genre>
+    <AuthorId>4</AuthorId>
+  </Book>
+  <Book>
+    <BookId>5</BookId>
+    <Title>Adventures of Huckleberry Finn</Title>
+    <PublishedYear>0</PublishedYear>
+    <Genre>Adventure</Genre>
+    <AuthorId>5</AuthorId>
+  </Book>
+</ArrayOfBook>

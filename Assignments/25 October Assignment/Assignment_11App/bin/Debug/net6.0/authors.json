@@ -1,0 +1,27 @@
+[
+  {
+    "AuthorId": 1,
+    "Name": "J.K. Rowling",
+    "Country": "United Kingdom"
+  },
+  {
+    "AuthorId": 2,
+    "Name": "George R.R. Martin",
+    "Country": "United States"
+  },
+  {
+    "AuthorId": 3,
+    "Name": "Haruki Murakami",
+    "Country": "Japan"
+  },
+  {
+    "AuthorId": 4,
+    "Name": "Jane Austen",
+    "Country": "United Kingdom"
+  },
+  {
+    "AuthorId": 5,
+    "Name": "Mark Twain",
+    "Country": "United States"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "BookId": 1,
+    "Title": "Harry Potter",
+    "PublishedYear": 0,
+    "Genre": "Fantasy",
+    "Author": null,
+    "AuthorId": 1
+  },
+  {
+    "BookId": 2,
+    "Title": "Game of Thrones",
+    "PublishedYear": 0,
+    "Genre": "Fantasy",
+    "Author": null,
+    "AuthorId": 2
+  },
+  {
+    "BookId": 3,
+    "Title": "Norwegian Wood",
+    "PublishedYear": 0,
+    "Genre": "Fiction",
+    "Author": null,
+    "AuthorId": 3
+  },
+  {
+    "BookId": 4,
+    "Title": "Pride and Prejudice",
+    "PublishedYear": 0,
+    "Genre": "Romance",
+    "Author": null,
+    "AuthorId": 4
+  },
+  {
+    "BookId": 5,
+    "Title": "Adventures of Huckleberry Finn",
+    "PublishedYear": 0,
+    "Genre": "Adventure",
+    "Author": null,
+    "AuthorId": 5
+  }
+]
