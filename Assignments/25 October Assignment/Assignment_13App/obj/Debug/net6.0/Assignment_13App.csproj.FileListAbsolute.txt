@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\bin\Debug\net6.0\Assignment_13App.exe
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\bin\Debug\net6.0\Assignment_13App.deps.json
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\bin\Debug\net6.0\Assignment_13App.runtimeconfig.json
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\bin\Debug\net6.0\Assignment_13App.dll
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\bin\Debug\net6.0\Assignment_13App.pdb
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.dll
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\refint\Assignment_13App.dll
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.pdb
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\Assignment_13App.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Domain Projects\Assignments\25 October Assignment\Assignment_13App\obj\Debug\net6.0\ref\Assignment_13App.dll
